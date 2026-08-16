@@ -1,0 +1,1 @@
+# 3. Mini Calculadora. Crie uma mini calculadora que permita ao usuário escolher entre as operações de soma, subtração, multiplicação e divisão. Peça dois números e a operação desejada. Imprima o resultado.
